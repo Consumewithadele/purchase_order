@@ -47,16 +47,3 @@ You will not be given access to our store, the module must be able to fully func
 5. Ownership
 
 - All work done on this module will be owned by us.
-
-6. Collaboration
-
-- You MUST agree to a video call before we give you this project. Only candidates with excellent English and communication skills will be considered.
-
-7. Additional
-
-- You MUST have at least two years working with Magento2
-- There is an opportunity for more work - nothing guaranteed.
-- We will review and comment on the code where necessary. 
-- Your code must be clean and include appropriate comments.
-
-8. If you have questions or suggestions on how best to do this, we are open to any advice/suggestions.
